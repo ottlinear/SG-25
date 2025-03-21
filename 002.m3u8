@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:1.000,
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:A0:63&stream=472279&extension=ts&play_token=Wak5nWow13
