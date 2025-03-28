@@ -1,1 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:1.000,
+http://wayforward.xyz:80/live/uugjnauw/zNtU7zdSk/299826.ts
+#EXTINF:1.000,
+http://wayforward.xyz:80/live/uugjnauw/zNtU7zdSk/299826.ts
+#EXTINF:1.000,
+http://wayforward.xyz:80/live/uugjnauw/zNtU7zdSk/299826.ts
+#EXTINF:1.000,
 http://wayforward.xyz:80/live/uugjnauw/zNtU7zdSk/299826.ts
