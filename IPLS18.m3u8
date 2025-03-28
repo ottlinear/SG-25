@@ -6,9 +6,10 @@ https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd?|Coo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=hdntl=exp=1743259200~acl=*sshindi*~id=4f810841f16f2149e5bd84d1455fec67~data=hdntl~hmac=f78316515dd6c4144de5f7a110464ae879b016d0de610905667d3d73fa143382"}
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
 #EXTINF:-1 tvg-id="" group-title="IPL 2025",Hotstar Tivimate
-https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd?|Cookie=hdntl=exp=1743259200~acl=*sshindi*~id=4f810841f16f2149e5bd84d1455fec67~data=hdntl~hmac=f78316515dd6c4144de5f7a110464ae879b016d0de610905667d3d73fa143382&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
+https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd
 
 
 #EXTINF:-1 tvg-id="" group-title="IPL 2025",Star Sports 
