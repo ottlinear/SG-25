@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-title="IPL 2025",Star Sports Hindi
+
+#EXTINF:-1 tvg-id="" group-title="IPL 2025",Star Sports 1
+https://raw.githubusercontent.com/Pankaj2444/SG-25/refs/heads/main/005.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPL 2025",Star Sports 2
 https://live-ak.vimeocdn.com/exp=1743172029~acl=%2F4aa588f8-5f73-42c4-a05f-65a694439cfe_fmp4%2F%2A~hmac=75e633f0219b51e5634da8046c7fc8237cb134670ffb592792389d610582518a/4aa588f8-5f73-42c4-a05f-65a694439cfe_fmp4/hls.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -7,7 +11,3 @@ https://live-ak.vimeocdn.com/exp=1743172029~acl=%2F4aa588f8-5f73-42c4-a05f-65a69
 #KODIPROP:inputstream.adaptive.license_key=55c7316a7e8cfff31f421cda939aab76:74d97fd894ee4de60c8a4aeb005deced
 #EXTINF:-1 tvg-id="" group-title="IPL 2025",Willow Cricket 
 https://a179aivottepl-a.akamaihd.net/lhr-nitro/live/clients/dash/enc/nbjeiqzxcd/out/v1/4f87be97f6c14dbd91163d2396a15a1c/cenc.mpd
-
-
-
-
