@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" group-title="IPL 2025",Hotstar
+#EXTINF:-1 tvg-id="" group-title="IPL 2025",Hotstar NS Player
 https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd?%7CCookie%3Dhdntl=exp=1743172281~acl=*sshindi*~id=f1d6c598b63df7a66ea3c0c5d4b1b495~data=hdntl~hmac=6287fb81a7c028d8a99e5f16da6c783445df4c4b24cb7a5730da5008175620a7&User%2Dagent%3DHotstar%3Bin%2Estartv%2Ehotstar%2F25%2E02%2E24%2E8%2E11169&drmScheme%3Dclearkey%26drmLicense%3D%5FncY%2D7P7S6eMB8wPV4dE5g%3AYk4ksYQ7RZ%2DrCpSWCUFvDQ
+
+#EXTINF:-1 tvg-id="" group-title="IPL 2025",Hotstar Tivimate
+https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd?|Cookie=hdntl=exp=1743172281~acl=*sshindi*~id=f1d6c598b63df7a66ea3c0c5d4b1b495~data=hdntl~hmac=6287fb81a7c028d8a99e5f16da6c783445df4c4b24cb7a5730da5008175620a7&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169&drmScheme=clearkey&drmLicense=_ncY-7P7S6eMB8wPV4dE5g:Yk4ksYQ7RZ-rCpSWCUFvDQ
 
 #EXTINF:-1 tvg-id="" group-title="IPL 2025",Star Sports 
 https://live-ak.vimeocdn.com/exp=1743172029~acl=%2F4aa588f8-5f73-42c4-a05f-65a694439cfe_fmp4%2F%2A~hmac=75e633f0219b51e5634da8046c7fc8237cb134670ffb592792389d610582518a/4aa588f8-5f73-42c4-a05f-65a694439cfe_fmp4/hls.m3u8
