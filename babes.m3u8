@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:1.000,
+http://restream.globaltv1.net:8080/play/live.php?mac=00:1A:79:05:ED:78&stream=471837&extension=ts&play_token=4aqlQPEJfu
