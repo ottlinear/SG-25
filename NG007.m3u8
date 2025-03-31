@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:1.000,
+http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:73:18:52&stream=276971&extension=ts&play_token=rcPONZQiMQ
