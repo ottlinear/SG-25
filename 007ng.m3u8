@@ -4,9 +4,9 @@
 #EXT-X-MEDIA-SEQUENCE:4
 #EXTINF:25.000,
 http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:73:18:52&stream=276971&extension=ts
-#EXTINF:25.000,
+#EXTINF:20.000,
 http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:73:18:52&stream=276971&extension=ts
-#EXTINF:-10.000,
+#EXTINF:10.000,
 http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:73:18:52&stream=276971&extension=ts
-#EXTINF:25.000,
+#EXTINF:5.000,
 http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:73:18:52&stream=276971&extension=ts
