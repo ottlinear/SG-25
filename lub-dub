@@ -1,0 +1,8 @@
+#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/refs/heads/main/epg.xml.gz"
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169+(Android/15)
+#EXTHTTP:{"cookie":"hdntl=exp=1747563990~acl=*sshindi*~id=31ca6db7fdda8082c127730228aedbda~data=hdntl~hmac=9b14c650f5b0da77634dd536543e2516da9e4ab70bf1a04aec1e759d2ccee1f8&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169+(Android/15)"}
+#EXTINF:-1 tvg-id="ts24" tvg-name="Jio HotStar" tvg-type="Sports" group-title="Sports" tvg-language="Hindi" tvg-logo="https://www.wavespb.com/assets/images/newlive1.gif",Jio HotStar
+https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd?%7Ccookie=hdntl=exp=1747563990~acl=*sshindi*~id=31ca6db7fdda8082c127730228aedbda~data=hdntl~hmac=9b14c650f5b0da77634dd536543e2516da9e4ab70bf1a04aec1e759d2ccee1f8&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169+(Android/15)
