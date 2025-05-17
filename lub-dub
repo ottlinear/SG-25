@@ -9,3 +9,8 @@ https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd?%7Ccook
 
 #EXTINF:-1 tvg-id="ts24" tvg-type="Sports" group-title="Sports" tvg-language="Hindi" tvg-logo="", Sitara Khel Hindi
 https://bdixtv.life/jio.php?id=9399
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTINF:-1 tvg-id="" tvg-type="Sports" group-title="Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_425_305",Asto Cricket
+https://singapore-4y8o.onrender.com/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
