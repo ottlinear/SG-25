@@ -5,11 +5,12 @@
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169+(Android/15)
 #EXTHTTP:{"cookie":"hdntl=exp=1747563990~acl=*sshindi*~id=31ca6db7fdda8082c127730228aedbda~data=hdntl~hmac=9b14c650f5b0da77634dd536543e2516da9e4ab70bf1a04aec1e759d2ccee1f8&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169+(Android/15)"}
 #EXTINF:-1 tvg-id="ts24" tvg-name="Jio HotStar" tvg-type="Sports" group-title="Sports" tvg-language="Hindi" tvg-logo="https://www.wavespb.com/assets/images/newlive1.gif",Jio HotStar
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index2.m3u8?%7Cuser-agent=Hotstar;in.startv.hotstar&Cookie=hdntl=exp=1747537622~acl=%2f*~id=0eac3053138a5d9a0c342dfcd64e634f~data=hdntl~hmac=500dfef34d4384ab0be1f35f624069ba308265829d3cc7de87132ec213d541a8
+https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd?%7Ccookie=hdntl=exp=1747563990~acl=*sshindi*~id=31ca6db7fdda8082c127730228aedbda~data=hdntl~hmac=9b14c650f5b0da77634dd536543e2516da9e4ab70bf1a04aec1e759d2ccee1f8&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169+(Android/15)
+
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar
 #EXTHTTP:{"cookie":"hdntl=exp=1747537622~acl=%2f*~id=0eac3053138a5d9a0c342dfcd64e634f~data=hdntl~hmac=500dfef34d4384ab0be1f35f624069ba308265829d3cc7de87132ec213d541a8&User-agent=Hotstar;in.startv.hotstar"}
 #EXTINF:-1 tvg-id="ts24" tvg-name="Jio HotStar" tvg-type="Sports" group-title="Sports" tvg-language="Hindi" tvg-logo="https://www.wavespb.com/assets/images/newlive1.gif",Jio HotStar
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index2.m3u8?%7Cuser-agent=Hotstar;in.startv.hotstar
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index2.m3u8?%7Chdntl=exp=1747537622~acl=%2f*~id=0eac3053138a5d9a0c342dfcd64e634f~data=hdntl~hmac=500dfef34d4384ab0be1f35f624069ba308265829d3cc7de87132ec213d541a8&User-agent=Hotstar;in.startv.hotstar
 
 #EXTINF:-1 tvg-id="ts24" tvg-type="Sports" group-title="Sports" tvg-language="Hindi" tvg-logo="", Sitara Khel Hindi
 https://bdixtv.life/jio.php?id=9399
