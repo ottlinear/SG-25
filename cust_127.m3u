@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
-
 #EXTINF:-1 tvg-id="ts24" tvg-name="Jio HotStar" tvg-type="Sports" group-title="Sports" tvg-language="Hindi" tvg-logo="https://www.wavespb.com/assets/images/newlive1.gif",Jio HotStar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
