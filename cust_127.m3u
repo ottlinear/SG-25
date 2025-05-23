@@ -1,5 +1,19 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
+
+#EXTINF:-1 tvg-id="ts24" tvg-name="Jio HotStar" tvg-type="Sports" group-title="Sports" tvg-language="Hindi" tvg-logo="https://www.wavespb.com/assets/images/newlive1.gif",Jio HotStar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169+(Android/15)
+#EXTHTTP:{"cookie":"hdntl=exp=1748093816~acl=*sshindi*~id=93b628703cbb8192ab51030b7ba6b61a~data=hdntl~hmac=b74a7e435b5879d6694ad030cfac2d10721dfdf9417af9a777b7c5d9c709d166&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169+(Android/15)"}
+https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd?%7CCookie=hdntl=exp=1748093816~acl=*sshindi*~id=93b628703cbb8192ab51030b7ba6b61a~data=hdntl~hmac=b74a7e435b5879d6694ad030cfac2d10721dfdf9417af9a777b7c5d9c709d166&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169+(Android/15)
+
+#EXTINF:-1 tvg-id="ts24" tvg-name="Jio HotStar" tvg-type="Sports" group-title="Sports" tvg-language="Hindi" tvg-logo="https://www.wavespb.com/assets/images/newlive1.gif",Ads Free
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169+(Android/15)
+#EXTHTTP:{"cookie":"hdntl=exp=1748090347~acl=/hls/live/2024729/inallow-ipl-2025/hin/1540040366/15mindvrm013021b43384e74c5ba96d7340534b060e23may2025/master_apm~ttl=86400~type=free~data=ip=OsgNVjRAR1YvS4BZ41CyIC1ITVo08KiembPlqfszc1aC-userid=SUwSnZcRAS3KncQvX1F8QqpNtvzrhbCz0MH7epC1f0Ni-did=U9OHsEWSa21zL8pWKB2IcdnIsN0e6mKvndXsJMuzod67-cc=in-de=1-pl=android-ap=25.01.27.1.2915-ut=guest-~hmac=60c6cdfe1136485860b7920981995a67fd1cb0d7eb0844e69ddb9c9228f5ea88"}
+http://live-ssai-bpk-mum.cdn.hotstar.com/hls/live/2024729/inallow-ipl-2025/hin/1540040366/15mindvrm013021b43384e74c5ba96d7340534b060e23may2025/master_apm_720_5.m3u8?%7Ccookie=hdntl=exp=1748090347~acl=/hls/live/2024729/inallow-ipl-2025/hin/1540040366/15mindvrm013021b43384e74c5ba96d7340534b060e23may2025/master_apm~ttl=86400~type=free~data=ip=OsgNVjRAR1YvS4BZ41CyIC1ITVo08KiembPlqfszc1aC-userid=SUwSnZcRAS3KncQvX1F8QqpNtvzrhbCz0MH7epC1f0Ni-did=U9OHsEWSa21zL8pWKB2IcdnIsN0e6mKvndXsJMuzod67-cc=in-de=1-pl=android-ap=25.01.27.1.2915-ut=guest-~hmac=60c6cdfe1136485860b7920981995a67fd1cb0d7eb0844e69ddb9c9228f5ea88
 #EXTINF:-1 tvg-id="0-9-zeeanmol" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
 http://127.0.0.1:5349/index.php?id=0-9-zeeanmol
 
