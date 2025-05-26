@@ -1,6 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/refs/heads/main/epg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
+
 #EXTINF:-1 tvg-id="ts121" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png" group-title="Lifestyle",Tata Play Fitness
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=121
