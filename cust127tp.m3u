@@ -4857,3 +4857,15 @@ http://127.0.0.1:5349/get-mpd.php?id=1252|Origin=https://watch.tataplay.com&Refe
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 http://127.0.0.1:5349/get-mpd.php?id=1253|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZixKfkLxcPl6pIKCF3Hh4lhyXksUFX0oMzL0QTzlTkDE5oYDN9UOhzhM&s=10" group-title="Movies",BOLLYWOOD NONSTOP 4K
+http://127.0.0.1:5349/index2.php?id=155
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZixKfkLxcPl6pIKCF3Hh4lhyXksUFX0oMzL0QTzlTkDE5oYDN9UOhzhM&s=10" group-title="Movies",HINDI HITS 4K
+http://127.0.0.1:5349/index2.php?id=144
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZixKfkLxcPl6pIKCF3Hh4lhyXksUFX0oMzL0QTzlTkDE5oYDN9UOhzhM&s=10" group-title="Movies",ZEE BOLLYWOOD CA 4K cc
+http://127.0.0.1:5349/index2.php?id=7681
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZixKfkLxcPl6pIKCF3Hh4lhyXksUFX0oMzL0QTzlTkDE5oYDN9UOhzhM&s=10" group-title="Movies",Bollywood Premier 4K
+http://127.0.0.1:5349/index2.php?id=7894
