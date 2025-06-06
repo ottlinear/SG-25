@@ -4870,67 +4870,67 @@ http://127.0.0.1:5349/index2.php?id=7681
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZixKfkLxcPl6pIKCF3Hh4lhyXksUFX0oMzL0QTzlTkDE5oYDN9UOhzhM&s=10" group-title="Movies",Bollywood Premier 4K
 http://127.0.0.1:5349/index2.php?id=7894
 
-#EXTINF:-1 tvg-id="ts494" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STRGLDTH_Thumbnail-v1/STRGLDTH_Thumbnail.png" group-title="Jtv+",Star Gold Thrills
+#EXTINF:-1 tvg-id="ts494" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STRGLDTH_Thumbnail-v1/STRGLDTH_Thumbnail.png" group-title="Jtv+",Star Gold Thrills
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=3098
 https://jt.drmlive.net/jiotvplus/3098.mpd
 
-#EXTINF:-1 tvg-id="ts1072" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SG2HD_Thumbnail-v1/SG2HD_Thumbnail.png" group-title="Jtv+",Star Gold 2 HD
+#EXTINF:-1 tvg-id="ts1072" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SG2HD_Thumbnail-v1/SG2HD_Thumbnail.png" group-title="Jtv+",Star Gold 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=3096
 https://jt.drmlive.net/jiotvplus/3096.mpd
 
-#EXTINF:-1 tvg-id="ts163" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49370-k663x3hc-v3/imageContent-49370-k663x3hc-m4.png" group-title="Jtv+",Star Gold 2
+#EXTINF:-1 tvg-id="ts163" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49370-k663x3hc-v3/imageContent-49370-k663x3hc-m4.png" group-title="Jtv+",Star Gold2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1154
 https://jt.drmlive.net/jiotvplus/1154.mpd
 
-#EXTINF:-1 tvg-id="ts595" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12199-j9q3sghc-v1/imageContent-12199-j9q3sghc-m1.png" group-title="Jtv+",Star Gold Select HD
+#EXTINF:-1 tvg-id="ts595" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12199-j9q3sghc-v1/imageContent-12199-j9q3sghc-m1.png" group-title="Jtv+",Star Gold Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1113
 https://jt.drmlive.net/jiotvplus/1113.mpd
 
-#EXTINF:-1 tvg-id="ts461" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11798-j9kyvqi8-v1/imageContent-11798-j9kyvqi8-m1.png" group-title="Jtv+",Star Gold Select
+#EXTINF:-1 tvg-id="ts461" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11798-j9kyvqi8-v1/imageContent-11798-j9kyvqi8-m1.png" group-title="Jtv+",Star Gold Select
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1119
 https://jt.drmlive.net/jiotvplus/1119.mpd
 
-#EXTINF:-1 tvg-id="ts245" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="Jtv+",Star Gold HD
+#EXTINF:-1 tvg-id="ts245" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="Jtv+",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=156
 https://jt.drmlive.net/jiotvplus/156.mpd
 
-#EXTINF:-1 tvg-id="ts164" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-635-j5l0vfsg-v1/imageContent-635-j5l0vfsg-m1.png" group-title="Jtv+",Star Gold
+#EXTINF:-1 tvg-id="ts164" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-635-j5l0vfsg-v1/imageContent-635-j5l0vfsg-m1.png" group-title="Jtv+",Star Gold
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1125
 https://jt.drmlive.net/jiotvplus/1125.mpd
 
-#EXTINF:-1 tvg-id="ts8" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Jtv+",Star Plus HD
+#EXTINF:-1 tvg-id="ts8" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Jtv+",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1132
 https://jt.drmlive.net/jiotvplus/1132.mpd
 
-#EXTINF:-1 tvg-id="ts244" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Jtv+",Star Bharat HD
+#EXTINF:-1 tvg-id="ts244" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Jtv+",Star Bharat HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=931
 https://jt.drmlive.net/jiotvplus/931.mpd
 
-#EXTINF:-1 tvg-id="ts493" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STGRR_Thumbnail-v1/STGRR_Thumbnail.png" group-title="Jtv+",Star Gold Romance
+#EXTINF:-1 tvg-id="ts493" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STGRR_Thumbnail-v1/STGRR_Thumbnail.png" group-title="Jtv+",Star Gold Romance
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=3097
 https://jt.drmlive.net/jiotvplus/3097.mpd
 
-#EXTINF:-1 tvg-id="ts551" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png" group-title="Jtv+",Star Utsav
+#EXTINF:-1 tvg-id="ts551" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png" group-title="Jtv+",Star Utsav
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1143
 https://jt.drmlive.net/jiotvplus/1143.mpd
 
-#EXTINF:-1 tvg-id="ts470" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11819-j9kzbejs-v1/imageContent-11819-j9kzbejs-m1.png" group-title="Jtv+",Star Utsav Movies
+#EXTINF:-1 tvg-id="ts470" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11819-j9kzbejs-v1/imageContent-11819-j9kzbejs-m1.png" group-title="Jtv+",Star Utsav Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1136
 https://jt.drmlive.net/jiotvplus/1136.mpd
 
-#EXTINF:-1 tvg-id="ts587" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="Jtv+",Super Hungama
+#EXTINF:-1 tvg-id="ts587" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="Jtv+",Super Hungama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1392
 https://jt.drmlive.net/jiotvplus/1392.mpd
