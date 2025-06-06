@@ -4880,7 +4880,7 @@ https://jt.drmlive.net/jiotvplus/3098.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=3096
 https://jt.drmlive.net/jiotvplus/3096.mpd
 
-#EXTINF:-1 tvg-id="ts163" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49370-k663x3hc-v3/imageContent-49370-k663x3hc-m4.png" group-title="Jtv+",Star Gold2
+#EXTINF:-1 tvg-id="ts163" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49370-k663x3hc-v3/imageContent-49370-k663x3hc-m4.png" group-title="Jtv+",Star Gold 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1154
 https://jt.drmlive.net/jiotvplus/1154.mpd
