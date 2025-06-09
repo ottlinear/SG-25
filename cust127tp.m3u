@@ -1,13 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="ts559" tvg-logo="" group-title="test",Sab
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=559
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://127.0.0.1:5349/get-mpd?id=559|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-
-
 #EXTINF:-1 tvg-id="ts121" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png" group-title="Lifestyle",Tata Play Fitness
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=121
