@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1,Lund
+http://localhost:8080/portal.php?id=7894
